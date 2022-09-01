@@ -253,7 +253,6 @@ We are super excited about our first-ever Ultralytics YOLOv5 🚀 EXPORT Competi
 
 </details>
 
-## <div align="center">Contribute</div>
 
 
 
